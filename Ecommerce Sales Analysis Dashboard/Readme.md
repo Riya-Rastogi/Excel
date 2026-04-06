@@ -43,7 +43,6 @@ The dataset contains:
 
 ## 📷 Dashboard Preview
 ![Dashboard](![Dashboard](Ecommerce%20Sales%20Analysis%20Dashboard/Dashboard.png))
-
 ---
 
 ## 🔍 Insights Gained
