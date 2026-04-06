@@ -42,7 +42,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Ecommerce%20Sales%20Analysis%20Dashboard/Dashboard.png)---
+![Dashboard](./Ecommerce%20Sales%20Analysis%20Dashboard/Dashboard.png)
 
 ## 🔍 Insights Gained
 - Identified top-performing products and categories
