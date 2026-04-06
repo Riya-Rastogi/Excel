@@ -42,7 +42,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](ashboard.png)
+![Dashboard](Ecommerce Sales Analysis Dashboard/Dashboard.png)
 
 ---
 
