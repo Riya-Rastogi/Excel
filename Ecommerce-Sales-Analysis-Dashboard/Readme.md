@@ -42,7 +42,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Ecommerce-Sales-Analysis-Dashboard/Dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Riya-Rastogi/Excel/main/Ecommerce-Sales-Analysis-Dashboard/Dashboard.png)
 ## 🔍 Insights Gained
 - Identified top-performing products and categories
 - Analyzed region-wise sales distribution
